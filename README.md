@@ -1,5 +1,8 @@
 # Memory-Game
 
-[Login](/images/login.png)
+## Login printscreen
+![Login](/images/login.png)
 
-[game](/images/game.png)
+## Game printscreen
+
+![game](/images/game.png)
