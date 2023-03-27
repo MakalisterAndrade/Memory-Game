@@ -1,8 +1,8 @@
 # Memory-Game
 
-## Login printscreen
+## Print da tela de login
 ![Login](/images/login.png)
 
-## Game printscreen
+## Print da tela de jogo
 
 ![game](/images/game.png)
